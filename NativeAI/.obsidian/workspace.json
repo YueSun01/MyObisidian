@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "6ea34eae9c79402c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f44d3d583e138ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24338b89fe51a942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日速读/2026-03-22Context 还不够，Harness 才是 Agent 工程优化的正解？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-22Context 还不够，Harness 才是 Agent 工程优化的正解？"
+            }
+          },
+          {
+            "id": "ea7c6e58962d9533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10995b62b1037f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c4daa0597187db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828ec1a7ebc46d55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c50409223326d03c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c8f1f4db9fcdaf1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df7427dbca65c1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a043da4ee566ceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e264b699907fdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍 的反向链接列表"
+            }
+          },
+          {
+            "id": "6b7a8b825e63b667",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍 的出链列表"
+            }
+          },
+          {
+            "id": "dda8cb7b19b3da29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b9928b7a375fcc95",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e48528698de2d571",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "24338b89fe51a942",
+  "lastOpenFiles": [
+    "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」.md",
+    "每日速读/2026-03-22Context 还不够，Harness 才是 Agent 工程优化的正解？.md",
+    "每日速读/2026-03-21.md",
+    "未命名.canvas",
+    "未命名.base",
+    "每日速读/2026-03-22刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空.md",
+    "每日速读/2026-03-22扩散语言模型总是均匀发力，华为诺亚教它「抓重点」.md",
+    "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」 1.md",
+    "未命名 1.base",
+    "2026-03-21.md",
+    "Excalidraw/Drawing 2026-03-21 22.04.35.excalidraw.md",
+    "Excalidraw",
+    "每日速读/2026-03-21-MiniMax M2.7 开启模型的自我进化.md",
+    "每日速读/20260321.md",
+    "未命名.md",
+    "主题分类/推理优化模块.md",
+    "主题分类/新观点.md",
+    "主题分类/市场新瓜.md",
+    "主题分类/市场新风向.md",
+    "主题分类/产品/效率产品.md",
+    "主题分类/新产品.md",
+    "主题分类/产品",
+    "主题分类",
+    "新风向",
+    "新视角",
+    "Clippings/GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍.md",
+    "每日速读",
+    "Clippings/Highlight web pages.md",
+    "Clippings/一家00后创办的世界模型公司，凭什么让华为哈勃重金押注？.md",
+    "2026-03-17.md",
+    "Clippings",
+    "欢迎.md"
+  ]
+}
