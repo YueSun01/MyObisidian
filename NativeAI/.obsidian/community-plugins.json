@@ -1,5 +1,7 @@
 [
   "obsidian-clipper",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "heatmap-calendar"
 ]
