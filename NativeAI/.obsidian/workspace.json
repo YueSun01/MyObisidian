@@ -11,14 +11,14 @@
             "id": "24338b89fe51a942",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "每日速读/2026-03-22Context 还不够，Harness 才是 Agent 工程优化的正解？.md",
-                "mode": "source",
-                "source": false
+                "aFile": "NativeAI/每日速读/2026-03-22刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空.md",
+                "bFile": "NativeAI/每日速读/2026-03-22刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-03-22Context 还不够，Harness 才是 Agent 工程优化的正解？"
+              "icon": "diff",
+              "title": "Diff: 2026-03-22刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空  (Working Tree)"
             }
           },
           {
@@ -54,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -178,13 +178,23 @@
               "icon": "lucide-list",
               "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍 的大纲"
             }
+          },
+          {
+            "id": "c95d0cd407deafde",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,18 +205,27 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "24338b89fe51a942",
   "lastOpenFiles": [
-    "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」.md",
+    "每日速读/2026-03-24又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单.md",
+    "每日速读/2026-03-23跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践_大数据_Sri Subramanian_InfoQ精选文章.md",
+    "每日速读/2026-03-24龙虾泛滥社交媒体沦陷！全球最大求职平台没逃过“互联网已死”.md",
+    "每日速读/2026-03-231个Token测出模型降级调包！成本砍到千分之一，API供应商的小伎俩全曝光了.md",
+    "Clippings/一家00后创办的世界模型公司，凭什么让华为哈勃重金押注？.md",
+    "未命名.base",
+    "每日速读/2026-03-23字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书.md",
+    "每日速读/2026-03-23发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了.md",
     "每日速读/2026-03-22Context 还不够，Harness 才是 Agent 工程优化的正解？.md",
+    "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」.md",
+    "每日速读/2026-03-22扩散语言模型总是均匀发力，华为诺亚教它「抓重点」.md",
+    "每日速读/2026-03-22刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空.md",
     "每日速读/2026-03-21.md",
     "未命名.canvas",
-    "未命名.base",
-    "每日速读/2026-03-22刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空.md",
-    "每日速读/2026-03-22扩散语言模型总是均匀发力，华为诺亚教它「抓重点」.md",
     "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」 1.md",
     "未命名 1.base",
     "2026-03-21.md",
@@ -228,9 +247,6 @@
     "Clippings/GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍.md",
     "每日速读",
     "Clippings/Highlight web pages.md",
-    "Clippings/一家00后创办的世界模型公司，凭什么让华为哈勃重金押注？.md",
-    "2026-03-17.md",
-    "Clippings",
-    "欢迎.md"
+    "Clippings"
   ]
 }

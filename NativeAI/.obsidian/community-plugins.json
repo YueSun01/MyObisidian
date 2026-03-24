@@ -1,5 +1,9 @@
 [
   "obsidian-clipper",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "excalibrain",
+  "obsidian-tracker",
+  "obsidian-git"
 ]
