@@ -2,6 +2,10 @@
   "obsidian-clipper",
   "dataview",
   "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "excalibrain",
+  "obsidian-tracker",
   "obsidian-git",
-  "heatmap-calendar"
+  "hi-note",
+  "editing-toolbar"
 ]
