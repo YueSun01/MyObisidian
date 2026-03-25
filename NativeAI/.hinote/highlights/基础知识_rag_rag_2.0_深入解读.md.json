@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastModified": 1774433342006,
+  "lastModified": 1774435038030,
   "highlights": {
     "highlight-517624793-402": {
       "text": "多模态融合、混合检索优化和语义鸿沟跨越等突破",
@@ -100,7 +100,7 @@
     },
     "highlight-801026365-2849": {
       "text": "**全文搜索 with BM25** + **稠密向量（语义匹配）** + **稀疏向量（关键词增强）",
-      "position": 2849,
+      "position": 2853,
       "created": 1774433192603,
       "updated": 1774433192603,
       "backgroundColor": "#ffeb3b",
@@ -115,7 +115,7 @@
     },
     "highlight-750195186-2942": {
       "text": "倒排索引（Inverted Index）",
-      "position": 2942,
+      "position": 2946,
       "created": 1774433342006,
       "updated": 1774433342006,
       "backgroundColor": "#ff4d4f",
