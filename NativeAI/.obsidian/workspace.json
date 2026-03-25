@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "商汤实习/多模态交互.md",
+                "file": "基础知识/RAG/RAG 2.0 深入解读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多模态交互"
-            }
-          },
-          {
-            "id": "7e7bb3603c213dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "商汤实习/拟人用户偏好.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "拟人用户偏好"
+              "title": "RAG 2.0 深入解读"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +176,7 @@
             }
           },
           {
-            "id": "2d30ff8a06d413ee",
+            "id": "b8f77c004a34ed6c",
             "type": "leaf",
             "state": {
               "type": "hinote-view",
@@ -205,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,14 +207,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e7bb3603c213dc9",
+  "active": "6183f2bd5b0648a6",
   "lastOpenFiles": [
+    "基础知识/Skills/Skills：从编程工具的配角到Agent研发的核心.md",
+    "基础知识/RAG/RAG 2.0 深入解读.md",
+    "基础知识/Skills",
+    "每日速读/2026-03-25OpenClaw代码越改越崩？新研究EvoClaw揭示：Agents持续开发成功率仅13.37%.md",
+    "基础知识/RAG",
+    "基础知识",
     "商汤实习/多模态交互.md",
-    "商汤实习/拟人用户偏好.md",
-    "商汤实习/项目文档/‌⁠​‍​​​​‍​‍‬‍‬‬​⁠‬​‌‬​⁠​‍​‌​​‍‌﻿​​‬​⁠‬​​﻿⁠‌‍​‍﻿‍​⁠2026年-整体交互核心目标梳理 - 飞书云文档.md",
-    "商汤实习/项目文档/数据生成管线.md",
     "商汤实习/项目文档/数据验收.md",
+    "商汤实习/项目文档/数据生成管线.md",
+    "商汤实习/项目文档/‌⁠​‍​​​​‍​‍‬‍‬‬​⁠‬​‌‬​⁠​‍​‌​​‍‌﻿​​‬​⁠‬​​﻿⁠‌‍​‍﻿‍​⁠2026年-整体交互核心目标梳理 - 飞书云文档.md",
     "每日速读/2026-03-24龙虾之后，为什么说「主动式智能」才是Agent的终极形态？.md",
+    "2026-03-25OpenClaw代码越改越崩？新研究EvoClaw揭示：Agents持续开发成功率仅13.37% - HiNote 20260325164359.md",
+    "每日速读/2026-03-25ICLR 2026 Oral｜中科院团队提出新框架「SparseRL」，深度强化学习可自动生成高性能CUDA代码.md",
+    "商汤实习/拟人用户偏好.md",
     "每日速读/2026-03-24LeCun的世界模型单GPU就能跑了.md",
     "每日速读/2026-03-23发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了.md",
     "每日速读/2026-03-23跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践_大数据_Sri Subramanian_InfoQ精选文章.md",
@@ -249,17 +242,9 @@
     "每日速读/2026-03-22扩散语言模型总是均匀发力，华为诺亚教它「抓重点」.md",
     "每日速读/2026-03-22刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空.md",
     "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」.md",
-    "Clippings/一家00后创办的世界模型公司，凭什么让华为哈勃重金押注？.md",
     "未命名.base",
-    "每日速读/2026-03-21.md",
-    "每日速读/2026-03-22Andrej Karpathy最新播客：Token没用完让人焦虑，就像患上「AI精神病」 1.md",
     "未命名 1.base",
-    "2026-03-21.md",
-    "Excalidraw/Drawing 2026-03-21 22.04.35.excalidraw.md",
     "主题分类/产品",
-    "主题分类",
-    "新风向",
-    "新视角",
-    "每日速读"
+    "主题分类"
   ]
 }

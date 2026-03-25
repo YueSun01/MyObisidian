@@ -1,12 +1,14 @@
 {
   "version": "2.0",
   "mapping": {
-    "商汤实习/项目文档/数据验收.md": "商汤实习_项目文档_数据验收.md.json",
-    "商汤实习/项目文档/数据生成管线.md": "商汤实习_项目文档_数据生成管线.md.json",
-    "商汤实习/项目文档/‌⁠​‍​​​​‍​‍‬‍‬‬​⁠‬​‌‬​⁠​‍​‌​​‍‌﻿​​‬​⁠‬​​﻿⁠‌‍​‍﻿‍​⁠2026年-整体交互核心目标梳理 - 飞书云文档.md": "商汤实习_项目文档_‌⁠​‍​​​​‍​‍‬‍‬‬​⁠‬​‌‬​⁠​‍​‌​​‍‌_​​‬​⁠‬​​_⁠‌‍​‍_‍​⁠2026年-整体交互核心目标梳理_-_飞书云文档.md.json",
+    "每日速读/2026-03-25OpenClaw代码越改越崩？新研究EvoClaw揭示：Agents持续开发成功率仅13.37%.md": "每日速读_2026-03-25openclaw代码越改越崩？新研究evoclaw揭示：agents持续开发成功率仅13.37%.md.json",
+    "基础知识/RAG/RAG 2.0 深入解读.md": "基础知识_rag_rag_2.0_深入解读.md.json",
     "商汤实习/多模态交互.md": "商汤实习_多模态交互.md.json",
-    "商汤实习/未命名.md": "商汤实习_未命名.md.json",
-    "商汤实习/拟人用户偏好.md": "商汤实习_拟人用户偏好.md.json"
+    "Excalidraw/Drawing 2026-03-25 10.54.59.excalidraw.md": "excalidraw_drawing_2026-03-25_10.54.59.excalidraw.md.json",
+    "基础知识/skills/Skills：从编程工具的配角到Agent研发的核心.md": "基础知识_skills_skills：从编程工具的配角到agent研发的核心.md.json",
+    "基础知识/skills": "基础知识_skills.json",
+    "基础知识/Skills": "基础知识_skills.json",
+    "基础知识/Skills/Skills：从编程工具的配角到Agent研发的核心.md": "基础知识_skills_skills：从编程工具的配角到agent研发的核心.md.json"
   },
-  "lastUpdated": 1774425685775
+  "lastUpdated": 1774433595264
 }

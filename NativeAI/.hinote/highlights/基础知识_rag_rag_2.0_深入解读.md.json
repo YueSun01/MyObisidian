@@ -1,0 +1,132 @@
+{
+  "version": "2.0",
+  "lastModified": 1774433342006,
+  "highlights": {
+    "highlight-517624793-402": {
+      "text": "多模态融合、混合检索优化和语义鸿沟跨越等突破",
+      "position": 402,
+      "created": 1774432482794,
+      "updated": 1774432482794,
+      "backgroundColor": "#ff4d4f",
+      "comments": [
+        {
+          "id": "comment-1774432482794-tzmvo5u21",
+          "content": "理解一下：多模态融合、缓和检索优化、语义鸿沟跨越怎么做到的？",
+          "created": 1774432482794,
+          "updated": 1774432482794
+        }
+      ]
+    },
+    "highlight-686768023-628": {
+      "text": "LLMOps",
+      "position": 628,
+      "created": 1774432563304,
+      "updated": 1774432588396,
+      "backgroundColor": "#ff4d4f",
+      "comments": [
+        {
+          "id": "comment-1774432563304-sms8t6alc",
+          "content": "这个是啥？",
+          "created": 1774432563304,
+          "updated": 1774432588396
+        }
+      ]
+    },
+    "highlight-607030484-1593": {
+      "text": "噪声信息可能混淆模型的推理路径",
+      "position": 1593,
+      "created": 1774432774363,
+      "updated": 1774432789741,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774432774363-csth4bwwx",
+          "content": "#总结 高度依赖原始的数据；",
+          "created": 1774432774363,
+          "updated": 1774432789741
+        }
+      ]
+    },
+    "highlight-653049358-1827": {
+      "text": "**幻觉问题**",
+      "position": 1827,
+      "created": 1774432849612,
+      "updated": 1774432849612,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774432849612-5i1hl4zy6",
+          "content": "#总结 依旧是以来文档本省",
+          "created": 1774432849612,
+          "updated": 1774432849612
+        }
+      ]
+    },
+    "highlight-1700127281-2366": {
+      "text": "这种设计可能无法捕捉细微差异",
+      "position": 2366,
+      "created": 1774432934039,
+      "updated": 1774433037013,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774433037013-j9p4yoi6v",
+          "content": "这种设计可能无法捕捉细微差异？",
+          "created": 1774433037013,
+          "updated": 1774433037013
+        },
+        {
+          "id": "comment-1774432934039-0fb8l1a1v",
+          "content": "#问题 没太理解什么叫做不误捕捉细微差异》？",
+          "created": 1774432934039,
+          "updated": 1774432934039
+        }
+      ]
+    },
+    "highlight-1346096148-2492": {
+      "text": "基础检索生成（Naive RAG）→ 检索全流程优化（Advanced RAG）→ 具备反思能力的模块化系统（Modular RAG）",
+      "position": 2492,
+      "created": 1774433090716,
+      "updated": 1774433098562,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774433090716-9k1zs6azp",
+          "content": "#问题 检索全流程优化（Advanced RAG）这个是啥？",
+          "created": 1774433090716,
+          "updated": 1774433098562
+        }
+      ]
+    },
+    "highlight-801026365-2849": {
+      "text": "**全文搜索 with BM25** + **稠密向量（语义匹配）** + **稀疏向量（关键词增强）",
+      "position": 2849,
+      "created": 1774433192603,
+      "updated": 1774433192603,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774433192603-9v0gyda3f",
+          "content": "#问题 with BM25是啥？",
+          "created": 1774433192603,
+          "updated": 1774433192603
+        }
+      ]
+    },
+    "highlight-750195186-2942": {
+      "text": "倒排索引（Inverted Index）",
+      "position": 2942,
+      "created": 1774433342006,
+      "updated": 1774433342006,
+      "backgroundColor": "#ff4d4f",
+      "comments": [
+        {
+          "id": "comment-1774433342006-ias0fsdw1",
+          "content": "#问题 这个是啥？",
+          "created": 1774433342006,
+          "updated": 1774433342006
+        }
+      ]
+    }
+  }
+}
