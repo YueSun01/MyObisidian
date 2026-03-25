@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日速读/2026-03-23跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践_大数据_Sri Subramanian_InfoQ精选文章.md",
+                "file": "技巧大全/科研画图prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-23跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践_大数据_Sri Subramanian_InfoQ精选文章"
+              "title": "科研画图prompt"
             }
           }
         ]
@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "58a96c486e712879",
+            "type": "leaf",
+            "state": {
+              "type": "hinote-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "HiNote"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,11 +204,19 @@
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "hi-note:HiNote": false
     }
   },
-  "active": "828ec1a7ebc46d55",
+  "active": "0b92dff22b925522",
   "lastOpenFiles": [
+    "基础知识/RAG/RAG 2.0 深入解读.md",
+    "技巧大全/科研画图prompt.md",
+    "技巧大全",
+    "Excalidraw/Drawing 2026-03-25 10.54.59.excalidraw.md",
+    "每日速读/2026-03-23跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践_大数据_Sri Subramanian_InfoQ精选文章.md",
+    "未命名.md",
+    "新建 文本文档.txt",
     "每日速读/2026-03-25第一批“首席龙虾官”，月薪6万.md",
     "每日速读/2026-03-25中国AI音乐，悄悄把全球第一拿走了.md",
     "每日速读/2026-03-25OpenClaw代码越改越崩？新研究EvoClaw揭示：Agents持续开发成功率仅13.37%.md",
@@ -209,7 +227,6 @@
     "每日速读/2026-03-24OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？.md",
     "每日速读/2026-03-24LeCun的世界模型单GPU就能跑了.md",
     "基础知识/Skills/Skills：从编程工具的配角到Agent研发的核心.md",
-    "基础知识/RAG/RAG 2.0 深入解读.md",
     "基础知识/Skills",
     "基础知识/RAG",
     "基础知识",
@@ -220,7 +237,6 @@
     "商汤实习/项目文档",
     "商汤实习/多模态交互.md",
     "商汤实习",
-    "Excalidraw/Drawing 2026-03-25 10.54.59.excalidraw.md",
     "Excalidraw",
     "未命名.canvas",
     "每日速读/2026-03-21.md",
@@ -230,10 +246,6 @@
     "Clippings",
     "每日速读/2026-03-23发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了.md",
     "每日速读/2026-03-231个Token测出模型降级调包！成本砍到千分之一，API供应商的小伎俩全曝光了.md",
-    "每日复盘/2026-03-23.md",
-    "Template/每日复盘模板.md",
-    "2026OKR",
-    "Template",
-    "每日复盘"
+    "2026OKR"
   ]
 }
