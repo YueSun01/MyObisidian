@@ -5,6 +5,7 @@ date: "2026-03-22"
 标签: "# Harness Engineering"
 ---
 **一句话概括**：Harness engineering解决的是除了大模型本身能力以外的所有变量。
+#Harness-Engineering
 **我的判断**：
 1. Harness engineering相当于从让AI从二维升到三维。
 2. Harness engineering 已经在解决结构性问题了，而非仅仅是上下文的问题。

@@ -1,0 +1,231 @@
+{
+  "version": "2.0",
+  "lastModified": 1775461198622,
+  "highlights": {
+    "highlight-1862536773-359": {
+      "text": "该项目声称，只要提供某位同事的飞书聊天记录、钉钉文档和工作邮件作为原材料，系统就能通过 AI 技术生成一个可替代该同事工作的数字分身。",
+      "position": 1071,
+      "created": 1775448877587,
+      "updated": 1775448877587,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775448877587-a859flyai",
+          "content": "很神奇的感觉，人类行为又被作为原始数据训练模型或者提炼Harness了。",
+          "created": 1775448877587,
+          "updated": 1775448877587
+        }
+      ]
+    },
+    "highlight-888424342-608": {
+      "text": "从「前任.skill」「导师.skill」「暗恋对象.skill」，一路发展到「老板.skill」甚至「自己.skill」。",
+      "position": 1320,
+      "created": 1775448984949,
+      "updated": 1775449091281,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775448984949-8ii9dxmsq",
+          "content": "这是真的数字人。。进一步印证人类再AI时代的作用逐步退化，从最开始的AI大脑，用于工作流的编排，在作为Human in the Loop中的一个环节，再从现在的输入指令变为今天的数据创造者。人在AI世界从造物者变为数据生产者。",
+          "created": 1775448984949,
+          "updated": 1775449091281
+        }
+      ]
+    },
+    "highlight-472770118-806": {
+      "text": "而在职场中的人们则开始在社交动态里用一种戏谑的口吻留下状态：「我的 skill 已上传。」",
+      "position": 1518,
+      "created": 1775449147897,
+      "updated": 1775449147897,
+      "backgroundColor": "#EF500463",
+      "comments": [
+        {
+          "id": "comment-1775449147897-8zf3erioa",
+          "content": "写一个关于人类在AI时代的角色演进相关的文章",
+          "created": 1775449147897,
+          "updated": 1775449147897
+        }
+      ]
+    },
+    "highlight-166012725-965": {
+      "text": "那些原本属于人际互动、情感纽带和职场协作的范畴，那些曾经被认为具有不可替代性的个人特质，正在被系统性地解构。",
+      "position": 1677,
+      "created": 1775449320004,
+      "updated": 1775449320004,
+      "backgroundColor": "#E0EF048A",
+      "comments": [
+        {
+          "id": "comment-1775449320004-zcsin3dwl",
+          "content": "这个是不是意味着人类的行为是可以被预测的？",
+          "created": 1775449320004,
+          "updated": 1775449320004
+        }
+      ]
+    },
+    "highlight-830824804-1446": {
+      "text": "Agent Skills 被定义为一种可以被智能体动态发现并加载的能力模块。",
+      "position": 2158,
+      "created": 1775449446084,
+      "updated": 1775449446084,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775449446084-mkpr8i9vu",
+          "content": "Skills意味着打开了AI走向proactivate的大门",
+          "created": 1775449446084,
+          "updated": 1775449446084
+        }
+      ]
+    },
+    "highlight-250479750-2092": {
+      "text": "一个典型的个人专属 Skill 通常由两部分共同驱动",
+      "position": 2804,
+      "created": 1775449754121,
+      "updated": 1775449754121,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775449754121-n3eirfbdh",
+          "content": "很容易理解，编写人格skill本质和模型的训练很相似，比如workskill和人格模型分别对应模型训练的两个步骤，一个是SFT让模型学习新的知识；一个是RM训练模型的偏好；",
+          "created": 1775449754121,
+          "updated": 1775449754121
+        }
+      ]
+    },
+    "highlight-2108460124-2748": {
+      "text": "自我进化机制",
+      "position": 3460,
+      "created": 1775449872790,
+      "updated": 1775449872790,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775449872790-xb7mgvo1k",
+          "content": "一种系统化的表现，现在的skills或者agent都有一个自我优化系统，这个就是Loop的核心，很像螺旋上升/复盘更新这个概念；在不断的错误中吸取经验或者从新的信息渠道更新知识或者偏好。",
+          "created": 1775449872790,
+          "updated": 1775449872790
+        }
+      ]
+    },
+    "highlight-413841994-3034": {
+      "text": "赛博空间的众生相",
+      "position": 3746,
+      "created": 1775449914676,
+      "updated": 1775449914676,
+      "backgroundColor": "#EF04049E",
+      "comments": [
+        {
+          "id": "comment-1775449914676-nplacit9g",
+          "content": "什么叫做赛博空间的众生相？",
+          "created": 1775449914676,
+          "updated": 1775449914676
+        }
+      ]
+    },
+    "highlight-560232946-3140": {
+      "text": "，都投射着特定群体的痛点与渴望",
+      "position": 3852,
+      "created": 1775449949827,
+      "updated": 1775449949827,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775449949827-2r2j7dj0t",
+          "content": "文科生的重要性，在这里体现了。理解社会现象背后的实际需求到底是什么？",
+          "created": 1775449949827,
+          "updated": 1775449949827
+        }
+      ]
+    },
+    "highlight-239162603-3351": {
+      "text": "当用户请求 AI 同事帮忙审查接口设计时",
+      "position": 4063,
+      "created": 1775450036831,
+      "updated": 1775450083130,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775450036831-56dara8x6",
+          "content": "数字同事，优先找AI分身，其次“转人工”。这个想法有点意思。然后同时再执行完之后如果没有转人工可以记为一次成功任务。",
+          "created": 1775450036831,
+          "updated": 1775450083130
+        }
+      ]
+    },
+    "highlight-294979795-3667": {
+      "text": "最幽微的亲密关系领域",
+      "position": 4379,
+      "created": 1775450100756,
+      "updated": 1775450100756,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775450100756-51ms1276x",
+          "content": "很小众啊。。",
+          "created": 1775450100756,
+          "updated": 1775450100756
+        }
+      ]
+    },
+    "highlight-93671204-3915": {
+      "text": "https://github.com/perkfly/ex-skill\n",
+      "position": 4627,
+      "created": 1775450252705,
+      "updated": 1775450252705,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775450252705-7keetgw7x",
+          "content": "这个项目让我意识到数据的重要性，是不是只要有了所有的用户行为数据，就可以mock出一个一摸一样的数字人？",
+          "created": 1775450252705,
+          "updated": 1775450252705
+        }
+      ]
+    },
+    "highlight-697847699-4622": {
+      "text": "这种数字化的内观",
+      "position": 5378,
+      "created": 1775450489412,
+      "updated": 1775450489412,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775450489412-7e79fk7s8",
+          "content": "很有意思啊，这个是人类显化观察自己的一种方式，人类认知和事实是有一种差距的。因为人类本身也是注意力有限的，就像是《attention is all your need》里面的，你越注意什么，你的世界就是什么，这个有点儿唯心主义了，但是确实人类的注意力窗口决定了你能够看到的世界。但是现实世界的数据是真实的，是没有优先级或者权重差异的，只要把数据全都摆在桌面上客观分析和对比，就能够认识更加客观和真实的自己了。",
+          "created": 1775450489412,
+          "updated": 1775450489412
+        }
+      ]
+    },
+    "highlight-1755553742-5858": {
+      "text": "唯有那些具备定义复杂问题能力、能够设计并持续校准工作流程、以及有资格对最终结果承担责任的架构师型人才。",
+      "position": 6578,
+      "created": 1775450755156,
+      "updated": 1775450755156,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775450755156-qfsg5xt0q",
+          "content": "Harness工程师。发现问题-定义问题-剞劂问题-优化流程。\n但是这个所有的前提是要感知需求。",
+          "created": 1775450755156,
+          "updated": 1775450755156
+        }
+      ]
+    },
+    "highlight-2029543485-6056": {
+      "text": "我们在赛博空间里构建出了完美的响应机制，却在现实世界中失去了面对冲突与不确定性的勇气。",
+      "position": 6776,
+      "created": 1775450835241,
+      "updated": 1775450835241,
+      "backgroundColor": "#E0EF048A",
+      "comments": [
+        {
+          "id": "comment-1775450835241-6960gdv2o",
+          "content": "好牛的想法。任何东西都是可预测的本质是不是会带来停滞？",
+          "created": 1775450835241,
+          "updated": 1775450835241
+        }
+      ]
+    }
+  }
+}

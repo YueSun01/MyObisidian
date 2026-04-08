@@ -1,0 +1,111 @@
+{
+  "version": "2.0",
+  "lastModified": 1775453935762,
+  "highlights": {
+    "highlight-866154149-1167": {
+      "text": "Scaling Law",
+      "position": 619,
+      "created": 1775452691351,
+      "updated": 1775453909471,
+      "backgroundColor": "#EF04049E",
+      "comments": [
+        {
+          "id": "comment-1775452691351-4y2izhmb1",
+          "content": "问题：什么是Scaling Law？",
+          "created": 1775452691351,
+          "updated": 1775453909471
+        }
+      ]
+    },
+    "highlight-809246146-841": {
+      "text": "它处理突发状况的脑回路",
+      "position": 777,
+      "created": 1775453015466,
+      "updated": 1775453015466,
+      "backgroundColor": "#A0FFA98A",
+      "comments": [
+        {
+          "id": "comment-1775453015466-cxvp69kn4",
+          "content": "核心概念：机器人学会处理突发事件，但是这个是为啥？",
+          "created": 1775453015466,
+          "updated": 1775453015466
+        }
+      ]
+    },
+    "highlight-647631987-1020": {
+      "text": "用人类活动记录训练机器人",
+      "position": 956,
+      "created": 1775453107730,
+      "updated": 1775453107730,
+      "backgroundColor": "#A0FFA98A",
+      "comments": [
+        {
+          "id": "comment-1775453107730-gt5iy79tc",
+          "content": "核心概念：和我的想法不谋而合，人类作为训练数据的生产者。\n\n任何想法：人类如同传感器一般，作为机器人感知外界的媒介。",
+          "created": 1775453107730,
+          "updated": 1775453107730
+        }
+      ]
+    },
+    "highlight-1374978947-1151": {
+      "text": "转而通过低成本穿戴设备捕捉了数百万项人类活动记录",
+      "position": 1087,
+      "created": 1775453149881,
+      "updated": 1775453149881,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775453149881-f0mhvei24",
+          "content": "任何想法：再次印证人类是数据生产器。",
+          "created": 1775453149881,
+          "updated": 1775453149881
+        }
+      ]
+    },
+    "highlight-1212200349-1549": {
+      "text": "Paged Attention通过更高效地调度计算资源，解决了动作指令发射时的调度难题，确保每一个动作指令都能在毫秒级的时间维度内即时发射，让AI的反应速度能跟上现实世界的物理节奏",
+      "position": 1485,
+      "created": 1775453232204,
+      "updated": 1775453920435,
+      "backgroundColor": "#A0FFA98A",
+      "comments": [
+        {
+          "id": "comment-1775453232204-7udaubbnu",
+          "content": "核心概念：分页注意力机制是Gen-1的亮点。\n\n任何问题：但是什么是分页注意力机制？如何实现的呢？",
+          "created": 1775453232204,
+          "updated": 1775453920435
+        }
+      ]
+    },
+    "highlight-1582082932-1750": {
+      "text": "它允许模型在输出指令时通过多尺度的动态调节来引导权重，使其在执行折叠纸箱或包装手机等复杂动态任务时，能够展现出超越单一模型权重分布的性能上限。",
+      "position": 1686,
+      "created": 1775453301278,
+      "updated": 1775453928685,
+      "backgroundColor": "#A0FFA98A",
+      "comments": [
+        {
+          "id": "comment-1775453301278-j0ijd6ncj",
+          "content": "核心概念：Harmonic Reasoning系统是解决复杂环境的推理问题的，核心还是调节权重。\n\n任何问题：但是如何调节呢？",
+          "created": 1775453301278,
+          "updated": 1775453928685
+        }
+      ]
+    },
+    "highlight-207470871-1933": {
+      "text": "GEN-1的性能跨越，证明了Scaling Law在物理世界依然有效——只要喂够了数据和算力，机器人的脑子也会产生“开窍”时刻",
+      "position": 1869,
+      "created": 1775453357281,
+      "updated": 1775453357281,
+      "backgroundColor": "#D5A0FF8A",
+      "comments": [
+        {
+          "id": "comment-1775453357281-33sect2p7",
+          "content": "故事案例：Scaling Law的本质是量变引起质变。",
+          "created": 1775453357281,
+          "updated": 1775453357281
+        }
+      ]
+    }
+  }
+}

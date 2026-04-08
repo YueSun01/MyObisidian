@@ -1,0 +1,96 @@
+{
+  "version": "2.0",
+  "lastModified": 1775458809227,
+  "highlights": {
+    "highlight-1334397973-298": {
+      "text": "**复杂外部环境** ：真实用户需求并不是脱离环境独立产生的，而是会受到时间、地点、天气、生活事件等复杂外部情境的共同影响；",
+      "position": 351,
+      "created": 1775457282250,
+      "updated": 1775457282250,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775457282250-qwhw30gz2",
+          "content": "想法：当前模型缺少外界真实数据的观点重合。",
+          "created": 1775457282250,
+          "updated": 1775457282250
+        }
+      ]
+    },
+    "highlight-333460529-1179": {
+      "text": "核心由四部分组成：用户画像、基于信念-愿望-意图（Belief-Desire-Intention，BDI）的认知引擎、基于环境约束的事件引擎、用户行为引擎。",
+      "position": 1232,
+      "created": 1775457633873,
+      "updated": 1775457633873,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775457633873-5r8zgngeo",
+          "content": "想法：本质上是一个巨大的harness 工程，把人类决策参考的变量都提炼出来了。\n\n问题：但是现在提炼Harness也是人来提炼的，但是人类的思维高度是有限的。是不是意味着harness高度也是有限的。",
+          "created": 1775457633873,
+          "updated": 1775457633873
+        }
+      ]
+    },
+    "highlight-458029999-2685": {
+      "text": "在长时程设置中，模型对显性意图的完成率相对稳定，但对隐性意图的完成能力明显更弱，且会随着历史长度增加而进一步下降",
+      "position": 2716,
+      "created": 1775457959685,
+      "updated": 1775457959685,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775457959685-v5yp11jz2",
+          "content": "想法：这个是不是意味着需要构建一个模块专门对用户建模，用来对齐用户的偏好？这个模块目前还是缺失的。",
+          "created": 1775457959685,
+          "updated": 1775457959685
+        }
+      ]
+    },
+    "highlight-1671436000-3061": {
+      "text": "这说明长期个性化能力的瓶颈并不只是「记不住」，更在于模型是否具备稳定的长期偏好推理能力。",
+      "position": 3114,
+      "created": 1775458078420,
+      "updated": 1775458078420,
+      "backgroundColor": "#A0FFA98A",
+      "comments": [
+        {
+          "id": "comment-1775458078420-4l5ff00qm",
+          "content": "想法：这个是不是意味着AI个性化需要分为两个，一个是短期偏好，一个是长期偏好？",
+          "created": 1775458078420,
+          "updated": 1775458078420
+        }
+      ]
+    },
+    "highlight-488762795-3493": {
+      "text": "**主动追问不足** ：即便关键信息尚不明确，模型也常直接给出建议，而不是主动澄清用户需求；",
+      "position": 3536,
+      "created": 1775458141615,
+      "updated": 1775458141615,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775458141615-gtdf8z9gf",
+          "content": "想法：这个是不是说明模型的proactivate能力不够",
+          "created": 1775458141615,
+          "updated": 1775458141615
+        }
+      ]
+    },
+    "highlight-1157422750-3607": {
+      "text": "用户画像",
+      "position": 3650,
+      "created": 1775458198486,
+      "updated": 1775458198486,
+      "backgroundColor": "#EF04049E",
+      "comments": [
+        {
+          "id": "comment-1775458198486-cp7btthic",
+          "content": "想法：用户画像和回复之间还是缺少一些因素，回答的偏好并不能够完全的解决用户的问题。",
+          "created": 1775458198486,
+          "updated": 1775458198486
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
 url: https://mp.weixin.qq.com/s/lejKFfDttRuO1tzNWs-A8g
 date: 2026-03-22
 类型: "# 产品"
-标签: "# Agent操作系统"
+标签: "# Agent"
 ---
 **一句话概括**：Agent是一种新的操作系统
 **我的判断**：

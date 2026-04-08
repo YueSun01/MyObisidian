@@ -65,7 +65,8 @@
     }
   },
   "export": {
-    "exportPath": ""
+    "exportPath": "02-每日速读",
+    "exportTemplate": ""
   },
   "contextOptions": {
     "strategy": "smart",

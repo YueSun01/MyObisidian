@@ -6,5 +6,10 @@
   "heatmap-calendar",
   "callout-manager",
   "obsidian-tracker",
-  "hi-note"
+  "hi-note",
+  "templater-obsidian",
+  "highlightr-plugin",
+  "excalibrain",
+  "copilot",
+  "editing-toolbar"
 ]

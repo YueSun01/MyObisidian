@@ -1,11 +1,7 @@
 {
   "version": "2.0",
   "mapping": {
-    "基础知识/RAG/RAG 2.0 深入解读.md": "基础知识_rag_rag_2.0_深入解读.md.json",
-    "未命名": "未命名.json",
-    "技巧大全": "技巧大全.json",
-    "技巧大全/未命名.md": "技巧大全_未命名.md.json",
-    "技巧大全/科研画图prompt.md": "技巧大全_科研画图prompt.md.json"
+    "02-每日速读/2026-04-08Skill vs App：一场入口范式的争夺.md": "02-每日速读_2026-04-08skill_vs_app：一场入口范式的争夺.md.json"
   },
-  "lastUpdated": 1774454594121
+  "lastUpdated": 1775626494175
 }

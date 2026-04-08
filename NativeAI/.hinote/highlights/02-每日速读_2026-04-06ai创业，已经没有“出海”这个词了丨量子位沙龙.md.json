@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "lastModified": 1775460030096,
+  "highlights": {
+    "highlight-1605733587-3706": {
+      "text": "“造轮子”开始",
+      "position": 3706,
+      "created": 1775459971763,
+      "updated": 1775459971763,
+      "backgroundColor": "#EF04049E",
+      "comments": [
+        {
+          "id": "comment-1775459971763-hbfbsnhmp",
+          "content": "问题：造轮子啥意思？",
+          "created": 1775459971763,
+          "updated": 1775459971763
+        }
+      ]
+    },
+    "highlight-1605466823-3967": {
+      "text": "AI的真正杀手锏是 **逻辑纠错** ，它能通过知识库识别出传统识别工具搞不定的业务细节，这才是产品设计的发力点。",
+      "position": 3967,
+      "created": 1775460030096,
+      "updated": 1775460030096,
+      "backgroundColor": "#0485EF63",
+      "comments": [
+        {
+          "id": "comment-1775460030096-a1bded9ha",
+          "content": "想法：逻辑纠错本质上是不是提高模型的推理能力和抓重点能力？",
+          "created": 1775460030096,
+          "updated": 1775460030096
+        }
+      ]
+    }
+  }
+}
